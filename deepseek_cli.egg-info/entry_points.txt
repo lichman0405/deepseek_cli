@@ -1,2 +1,0 @@
-[console_scripts]
-deepseek_cli = cli:run_cli
